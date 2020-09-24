@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppAutoMapperDemo", "WebAppAutoMapperDemo\WebAppAutoMapperDemo.csproj", "{27254FFC-9853-4DE6-BF4B-B1108A81246D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{E1FEA3E5-D41D-4BA4-ADD3-B36BEF831D33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{BFE7F52C-181B-4950-9008-86D20C0B6479}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{EEFBDE7B-5B9D-4DFD-BE8E-A9577963CA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppAutoMapperDemoAF", "FunctionAppAutoMapperDemoAF\FunctionAppAutoMapperDemoAF.csproj", "{66CC31FC-6B73-4B94-84E7-4801C6A6507F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationAutoMapperDemoWebAPI", "WebApplicationAutoMapperDemoWebAPI\WebApplicationAutoMapperDemoWebAPI.csproj", "{846A6F0F-E6F2-4CCF-9B5C-9363B1CB697C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27254FFC-9853-4DE6-BF4B-B1108A81246D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27254FFC-9853-4DE6-BF4B-B1108A81246D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27254FFC-9853-4DE6-BF4B-B1108A81246D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27254FFC-9853-4DE6-BF4B-B1108A81246D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1FEA3E5-D41D-4BA4-ADD3-B36BEF831D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FEA3E5-D41D-4BA4-ADD3-B36BEF831D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FEA3E5-D41D-4BA4-ADD3-B36BEF831D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FEA3E5-D41D-4BA4-ADD3-B36BEF831D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE7F52C-181B-4950-9008-86D20C0B6479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE7F52C-181B-4950-9008-86D20C0B6479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE7F52C-181B-4950-9008-86D20C0B6479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE7F52C-181B-4950-9008-86D20C0B6479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEFBDE7B-5B9D-4DFD-BE8E-A9577963CA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFBDE7B-5B9D-4DFD-BE8E-A9577963CA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFBDE7B-5B9D-4DFD-BE8E-A9577963CA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFBDE7B-5B9D-4DFD-BE8E-A9577963CA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CC31FC-6B73-4B94-84E7-4801C6A6507F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CC31FC-6B73-4B94-84E7-4801C6A6507F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CC31FC-6B73-4B94-84E7-4801C6A6507F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CC31FC-6B73-4B94-84E7-4801C6A6507F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846A6F0F-E6F2-4CCF-9B5C-9363B1CB697C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846A6F0F-E6F2-4CCF-9B5C-9363B1CB697C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846A6F0F-E6F2-4CCF-9B5C-9363B1CB697C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846A6F0F-E6F2-4CCF-9B5C-9363B1CB697C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D81A9D1C-D893-4BA4-BEAD-F8C3331498FA}
+	EndGlobalSection
+EndGlobal
